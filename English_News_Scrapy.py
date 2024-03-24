@@ -1,6 +1,12 @@
-'''get daily news'''
-
-'''Text with hyperlink won't be saved'''
+# -*- coding: utf-8 -*-
+"""
+Program: English Daily News Downloader
+Author: MrCrawL
+Created Date: 2024-01-21
+Last Modified: 2024-03-24
+Modified by: MrCrawL
+"""
+'''Existing problem: text with hyperlink won't be saved'''
 
 import requests
 from time import localtime, sleep
